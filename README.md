@@ -10,3 +10,4 @@ InfluxDB v(0.12 or higher)
 https://docs.influxdata.com/influxdb/v0.12/introduction/installation/
 
 Locust.io for the workload generator
+http://locust.io/
